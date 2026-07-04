@@ -1,0 +1,74 @@
+[
+  {
+    "id": "onb-001",
+    "title": "Day 1 Checklist - Reception and Setup",
+    "category": "day1_checklist",
+    "content": "On the first day, the new employee must arrive at the office reception at 9 AM, where they will be welcomed by the HR team. Next, a photo will be taken and an access badge will be issued, granting access to turnstiles, doors, and elevators. The IT team will provide a configured notebook, headset, and other equipment, already set up with access to the corporate email (@technova.com.br), Slack, Google Workspace, and internal systems. A guided office tour will introduce the work areas, pantry, meeting rooms, relaxation space, and restrooms."
+  },
+  {
+    "id": "onb-002",
+    "title": "Day 1 Checklist - Access and First Steps",
+    "category": "day1_checklist",
+    "content": "Still on the first day, the employee will receive credentials for access to the corporate VPN, the digital time tracking system (PontoMais), the HR Online portal, and the project management system (Jira). The assigned buddy who will support the first few weeks will introduce themselves and host a welcome lunch with the team. At the end of the day, the direct manager will hold a 30-minute meeting to present the goals for the probation period and the role expectations."
+  },
+  {
+    "id": "onb-003",
+    "title": "Week 1 Checklist - Training and Integration",
+    "category": "week1_checklist",
+    "content": "During the first week, the new employee must complete the mandatory training courses available on the TechNova Academy platform: Compliance (2h), Information Security (1h30), LGPD (1h), and TechNova Culture (1h). A one-on-one meeting with the direct manager must take place by Wednesday to align goals for the first 30 days. The buddy will support the employee daily, helping with practical questions about systems, processes, and the team’s routine."
+  },
+  {
+    "id": "onb-004",
+    "title": "Week 1 Checklist - Getting to Know the Company",
+    "category": "week1_checklist",
+    "content": "During the first week, presentations from the main departments are scheduled: Monday with HR and Finance, Tuesday with IT and Infrastructure, Wednesday with Product and Design, and Thursday with Sales and Marketing. On Friday, the Welcome Coffee with the executive board takes place, where the new hires of the month are formally introduced. The employee must also set up their profile on the internal portal with a photo, contact information, and a brief professional description."
+  },
+  {
+    "id": "onb-005",
+    "title": "Required Documents for Hiring",
+    "category": "documents_required",
+    "content": "To formalize the employment contract, the new employee must provide the following documents: ID card (original and copy), CPF, digital work card (CTPS), updated proof of address (last 3 months), bank details for salary deposits (bank, branch, and account), a recent 3x4 photo, and an Occupational Health Certificate (ASO) issued by the company’s occupational physician. Dependents for the health insurance plan must provide a birth or marriage certificate. All documents must be submitted to HR by the second business day."
+  },
+  {
+    "id": "onb-006",
+    "title": "Mandatory Training",
+    "category": "training",
+    "content": "All new employees must complete 4 mandatory training courses within the first 7 days: (1) Compliance and Business Ethics - covers the code of conduct, whistleblower channel, and anti-corruption policies (2h); (2) Information Security - covers secure passwords, phishing, VPN usage, and data classification (1h30); (3) LGPD and Data Protection - explains responsibilities regarding personal data of clients and employees (1h); (4) TechNova Culture - presents the company’s mission, vision, values, and history (1h). Certificates are automatically generated and stored in the employee’s profile."
+  },
+  {
+    "id": "onb-007",
+    "title": "Department Contact Directory",
+    "category": "contacts",
+    "content": "Human Resources: Ana Carolina Mendes (HR Manager, extension 1001, ana.mendes@technova.com.br). Information Technology: Rafael Costa (IT Coordinator, extension 2001, rafael.costa@technova.com.br) for equipment and access support. Finance: Juliana Almeida (Financial Analyst, extension 3001, juliana.almeida@technova.com.br) for questions regarding payroll, benefits, and reimbursements. Facilities: Carlos Eduardo Santos (Facilities Coordinator, extension 4001, carlos.santos@technova.com.br) for room reservations, maintenance, and general services. General Slack channel: #new-hires-help."
+  },
+  {
+    "id": "onb-008",
+    "title": "New Employee FAQ - Technology",
+    "category": "faq",
+    "content": "How do I access the VPN? Open the FortiClient application installed on the notebook, enter your corporate email and network password, then click connect. How do I request office supplies? Access the Facilities portal (facilities.technova.com.br), fill out the request form, and the materials will be delivered within 2 business days. How do I book a meeting room? Use Google Calendar and add the desired room as a resource; available rooms appear in green. For technical issues with notebooks or systems, open a ticket through Slack in the #it-support channel or by email at suporte@technova.com.br."
+  },
+  {
+    "id": "onb-009",
+    "title": "New Employee FAQ - Routine and Benefits",
+    "category": "faq",
+    "content": "How does time tracking work? Download the PontoMais app on your phone or access it through the browser; register your check-in, lunch break start, lunch break end, and end-of-day check-out. How do I request vacation? Access HR Online, go to the Vacation menu, select the desired period, and submit it for manager approval at least 30 days in advance. How do I view my payslip? Payslips are available on the HR Online portal every month on the 25th, under the Statements tab. Questions about benefits should be sent to beneficios@technova.com.br or through the #hr-questions Slack channel."
+  },
+  {
+    "id": "onb-010",
+    "title": "First 30 Days Schedule",
+    "category": "schedule",
+    "content": "Week 1: Integration, mandatory training, and access setup. Week 2: Department immersion, attending team meetings, and starting first tasks with buddy support. Week 3: First supervised deliveries, informal feedback from the manager, and active participation in team projects. Week 4: Formal follow-up meeting with the manager to evaluate adaptation, clarify questions, and adjust the Individual Development Plan (IDP). By the end of the 30 days, the employee should have completed all training and be integrated into the team’s routines."
+  },
+  {
+    "id": "onb-011",
+    "title": "Probation Period Policy",
+    "category": "probation",
+    "content": "The probation period at TechNova Ltda lasts 90 days, divided into two evaluation stages: at 45 days and at 90 days. During the 45-day evaluation, the manager completes a follow-up form assessing integration, proactivity, quality of deliverables, and cultural alignment. During the 90-day evaluation, a formal meeting is held with HR and the manager to decide on permanent hiring. Criteria include achievement of probation goals, peer feedback, and alignment with company values. The employee receives written feedback in both evaluations."
+  },
+  {
+    "id": "onb-012",
+    "title": "Buddy Program - Mentorship Program",
+    "category": "buddy",
+    "content": "Every new employee is assigned a buddy (guide colleague) by the manager, who should be an experienced employee from the same or a related team. The buddy is responsible for supporting adaptation during the first 60 days, answering day-to-day questions, introducing colleagues, and facilitating social integration. At least 3 weekly 15-minute meetings are expected during the first two weeks, decreasing to 2 weekly meetings starting from the third week. The buddy receives symbolic recognition in the TechNova Stars points program."
+  }
+]

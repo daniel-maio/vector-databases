@@ -1,0 +1,1 @@
+docker run -dit --name qdrant -p 6333:6333 -v ./qdrant_data:/qdrant/storage qdrant/qdrant:v1.16

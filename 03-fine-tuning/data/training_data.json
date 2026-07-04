@@ -1,0 +1,107 @@
+[
+  {
+    "anchor": "What is the projected EBITDA for the next quarter?",
+    "positive": "Projected earnings before interest, taxes, depreciation, and amortization for Q3 are BRL 4.2 million, representing 15% growth compared to the previous quarter.",
+    "negative": "The IT department completed the migration of servers to the cloud last week."
+  },
+  {
+    "anchor": "How is the company's operating cash flow performing?",
+    "positive": "Operating cash flow recorded a net inflow of BRL 2.8 million for the month, with a cash conversion cycle of 45 days and positive working capital.",
+    "negative": "The company opened a new branch in the southern region of the country last month."
+  },
+  {
+    "anchor": "What is the pricing strategy for the new product?",
+    "positive": "The pricing strategy adopts a value-based pricing model, positioning the product 20% above the market average based on its differentiated value proposition and willingness-to-pay analysis of target customers.",
+    "negative": "The company's sustainability report was published on the corporate website."
+  },
+  {
+    "anchor": "What is the contribution margin by business unit?",
+    "positive": "The Enterprise business unit presents a contribution margin of 68%, followed by the Mid-Market segment at 52% and SMB at 35%, considering allocated direct and indirect variable costs.",
+    "negative": "The organizational climate survey revealed a 78% satisfaction rate among employees."
+  },
+  {
+    "anchor": "How is the churn rate among corporate clients?",
+    "positive": "The churn rate in the corporate segment reached 3.2% during the quarter, below the 5% target. Net Revenue Retention stood at 112%, indicating strong revenue expansion within the existing customer base.",
+    "negative": "The company launched a corporate volunteering program for its employees."
+  },
+  {
+    "anchor": "What is the return on investment of the digital marketing campaign?",
+    "positive": "The ROI of the digital marketing campaign was 340%, with CAC of BRL 185 and average LTV of BRL 4,200, resulting in an LTV/CAC ratio of 22.7x, exceeding the industry benchmark.",
+    "negative": "The headquarters office is undergoing renovations to its air conditioning system."
+  },
+  {
+    "anchor": "How is the sales pipeline for the semester?",
+    "positive": "The sales pipeline totals BRL 18 million in qualified opportunities, with a historical conversion rate of 28% in the B2B sales funnel. The weighted forecast indicates expected revenue of BRL 5 million for the semester.",
+    "negative": "The company sponsored a local sports event last weekend."
+  },
+  {
+    "anchor": "What is the break-even analysis for the new project?",
+    "positive": "The project's break-even point is reached with 1,200 units sold monthly, considering fixed costs of BRL 480 thousand and unit contribution margin of BRL 400. Projections indicate break-even in the 8th month of operations.",
+    "negative": "The legal department reviewed the lease agreements for the regional offices."
+  },
+  {
+    "anchor": "How is the company's leverage ratio?",
+    "positive": "The net debt-to-EBITDA ratio stands at 2.1x, within the bank covenant limit of 3.0x. Gross debt totals BRL 45 million, with 65% in long-term debt and a weighted average cost of 12.5% per year.",
+    "negative": "The company's internship program received 3,000 applications this year."
+  },
+  {
+    "anchor": "What is the projected recurring revenue growth?",
+    "positive": "Monthly recurring revenue (MRR) is projected to grow 8% month-over-month, with estimated ARR of BRL 36 million by year-end. The revenue mix consists of 72% recurring and 28% transactional revenue.",
+    "negative": "The company acquired new ergonomic equipment for all offices."
+  },
+  {
+    "anchor": "Explain the adopted corporate governance structure.",
+    "positive": "Corporate governance follows B3 Novo Mercado practices, with a board of directors composed of 7 members, including 3 independent directors, a permanent audit committee, and a 100% tag-along policy for minority shareholders.",
+    "negative": "The headquarters cafeteria started offering vegan options on the menu."
+  },
+  {
+    "anchor": "How does the financial model sensitivity analysis work?",
+    "positive": "The sensitivity analysis varies three key parameters: sales volume (±20%), average price (±15%), and raw material cost (±25%). In the pessimistic scenario, NPV remains positive at BRL 1.2 million with IRR of 18%, above the 14% WACC.",
+    "negative": "The design team is working on updating the brand's visual identity."
+  },
+  {
+    "anchor": "What is the company's foreign exchange hedging strategy?",
+    "positive": "The FX hedging policy covers 70% of USD exposure for the next 12 months, using NDF contracts with an average strike rate of BRL 5.15 and protective put spread options, with total hedge cost of 2.3% of notional value.",
+    "negative": "The company organized a year-end celebration for all departments."
+  },
+  {
+    "anchor": "How is working capital management performing?",
+    "positive": "Working capital management optimized the operating cycle to 62 days, with an average collection period of 35 days, average inventory period of 42 days, and average payment period negotiated at 55 days with strategic suppliers.",
+    "negative": "The facilities department is evaluating the hiring of a new cleaning service provider."
+  },
+  {
+    "anchor": "What is the impact of the new tax regulation on results?",
+    "positive": "The tax reform reduces the effective tax rate by 3 percentage points, generating estimated annual savings of BRL 2.1 million. Tax planning includes the use of accumulated PIS/COFINS credits under the non-cumulative regime.",
+    "negative": "The company started a landscaping project in the outdoor area of its headquarters."
+  },
+  {
+    "anchor": "How is company valuation calculated using the DCF method?",
+    "positive": "The discounted cash flow valuation projects FCF of BRL 8 million in year 1, growing at 12% annually for 5 years with a 4% perpetuity growth rate. Using a 13.5% WACC, the estimated enterprise value is BRL 95 million, implying an equity value of BRL 72 million after deducting net debt.",
+    "negative": "The HR team implemented a new electronic time tracking system."
+  },
+  {
+    "anchor": "What is the M&A strategy for expansion?",
+    "positive": "The mergers and acquisitions strategy focuses on targets with revenue between BRL 10-50 million, target EV/EBITDA multiples of 6-8x, and estimated operational synergies of 15-20% cost reduction. The current pipeline includes 3 targets in advanced due diligence.",
+    "negative": "The internal communications department launched a monthly newsletter for employees."
+  },
+  {
+    "anchor": "How is the R&D budget allocated?",
+    "positive": "The R&D budget represents 8% of net revenue, allocated as 40% for incremental innovation in existing products, 35% for development of new solutions, and 25% for exploratory research. The average ROI of R&D projects over the past 3 years was 280%.",
+    "negative": "The company donated used computers to a public school in the community."
+  },
+  {
+    "anchor": "What is the dividend distribution policy?",
+    "positive": "The dividend policy establishes a minimum distribution of 30% of adjusted net income, with a target payout ratio of 50%. Dividend yield over the last 12 months was 4.8%, with quarterly distributions and the use of Interest on Equity (JCP) for tax optimization.",
+    "negative": "The company's parking lot gained new bicycle parking spaces."
+  },
+  {
+    "anchor": "How does the SaaS unit economics model work?",
+    "positive": "The SaaS unit economics model presents CAC of BRL 2,800, a payback period of 7 months, LTV of BRL 18,500, and gross margin of 82%. The magic number stands at 1.3x, indicating sales efficiency above the 1.0x benchmark for B2B SaaS companies.",
+    "negative": "The company hired a professional photographer to update photos on the corporate website."
+  },
+  {
+    "anchor": "What is the status of regulatory compliance?",
+    "positive": "The compliance program adheres to 95% of regulatory requirements, with identified gaps in LGPD and CVM sector regulations. The compliance committee reports quarterly to the board, with 12 mandatory training sessions completed and 98% employee participation.",
+    "negative": "The company planted 200 trees in a reforestation area in the countryside."
+  }
+]

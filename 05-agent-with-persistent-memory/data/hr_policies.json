@@ -1,0 +1,86 @@
+[
+  {
+    "id": "pol-001",
+    "title": "Vacation Policy - General Rules",
+    "category": "vacation",
+    "content": "Employees at TechNova Ltda are entitled to 30 days of annual vacation after each 12-month accrual period. Vacation may be split into up to 3 periods, with one period not shorter than 14 consecutive days and the remaining periods not shorter than 5 consecutive days each. Vacation requests must be submitted at least 30 days in advance to the direct manager through the HR Online system. Payment of the constitutional one-third vacation bonus is made together with the salary from the month preceding the start of the vacation."
+  },
+  {
+    "id": "pol-002",
+    "title": "Vacation Policy - Selling Vacation Days and Restrictions",
+    "category": "vacation",
+    "content": "The employee may choose to sell up to 10 vacation days (cash bonus), upon formal request submitted 15 days before the start of the vacation period. Vacation periods may not coincide with quarterly accounting closing dates without executive board approval. In exceptional cases, the manager may request postponement of vacation, provided the legal limit of 12 months after the accrual period is respected. Employees from the same team may not take vacation simultaneously without HR authorization."
+  },
+  {
+    "id": "pol-003",
+    "title": "Home Office Policy",
+    "category": "home_office",
+    "content": "TechNova Ltda adopts a hybrid work model, allowing up to 3 remote workdays per week. Tuesdays and Wednesdays are mandatory in-office days for all employees to facilitate team alignment and in-person meetings. Employees receive a monthly home office allowance of R$150.00 to cover internet and electricity expenses. To work remotely, the use of the corporate VPN is mandatory, and employees must keep their cameras available during online meetings."
+  },
+  {
+    "id": "pol-004",
+    "title": "Home Office Policy - Equipment and Rules",
+    "category": "home_office",
+    "content": "The company provides a notebook and headset for home office use, which must be returned in case of termination. Employees are responsible for maintaining a suitable workspace at home, including a desk and ergonomic chair (the company offers a subsidy of up to R$500 for the purchase of an ergonomic chair during the first year). Home office working hours follow the same rules as on-site work, including digital time tracking. Exceptional full-time remote work arrangements must be approved by both the manager and HR."
+  },
+  {
+    "id": "pol-005",
+    "title": "Benefits - Health and Dental Insurance",
+    "category": "benefits",
+    "content": "All employees at TechNova Ltda receive Unimed health insurance (private room coverage) with no co-payment, extended to direct dependents (spouse and children up to 21 years old). The Odontoprev dental plan is included at no additional cost for the employee. The company covers 100% of the employee’s plan and 50% of dependents’ plans. Waiting periods are waived for employees who enroll within the first 30 days of employment."
+  },
+  {
+    "id": "pol-006",
+    "title": "Benefits - Meal Allowance, Food Allowance, and Others",
+    "category": "benefits",
+    "content": "The food allowance (VA) is R$800.00 per month, credited to the Alelo card on the first business day of the month. The meal allowance (VR) is R$35.00 per worked business day, also credited to the Alelo card. TechNova offers Gympass Gold membership to all employees with no payroll deduction. Life insurance covers 24 times the base salary, including permanent disability coverage. Profit Sharing (PLR) is paid semiannually based on individual performance evaluations and company results."
+  },
+  {
+    "id": "pol-007",
+    "title": "Code of Conduct - Respect and Diversity",
+    "category": "code_of_conduct",
+    "content": "TechNova Ltda values a respectful and inclusive work environment. All employees must treat colleagues, clients, and suppliers with respect, regardless of gender, race, sexual orientation, religion, age, or disability. The company maintains a Diversity and Inclusion Committee that promotes affirmative actions and quarterly training sessions. Any form of discrimination must be reported to the ethics channel (etica@technova.com.br) and will be investigated confidentially."
+  },
+  {
+    "id": "pol-008",
+    "title": "Code of Conduct - Anti-Harassment and Confidentiality",
+    "category": "code_of_conduct",
+    "content": "TechNova has zero tolerance for moral or sexual harassment in the workplace. The reporting channel is anonymous and managed by an independent external consultancy, accessible by phone at 0800-123-4567 or through the website denuncia.technova.com.br. All employees sign a Non-Disclosure Agreement (NDA) upon hiring, committing to protect sensitive company information. Misuse of confidential information may result in termination for cause and legal action."
+  },
+  {
+    "id": "pol-009",
+    "title": "Code of Conduct - Equipment Usage",
+    "category": "code_of_conduct",
+    "content": "Equipment provided by the company (notebook, corporate phone, accessories) is intended for professional use, although moderate personal use is allowed. Installing software not authorized by the IT team is prohibited. Access to inappropriate content websites, online games, and streaming platforms during working hours is blocked by the corporate firewall. In cases of loss or damage caused by negligence, the employee may be held responsible for replacement costs."
+  },
+  {
+    "id": "pol-010",
+    "title": "Leave Policies - Maternity, Paternity, and Others",
+    "category": "leave",
+    "content": "TechNova Ltda participates in the Citizen Company Program, offering 180 days (6 months) of maternity leave and 20 consecutive days of paternity leave. Bereavement leave is 7 consecutive days for first-degree relatives (spouse, parents, children, siblings). Marriage leave is 5 business days starting from the date of the civil or religious ceremony. All leave requests must be communicated to HR with supporting documentation within 48 hours."
+  },
+  {
+    "id": "pol-011",
+    "title": "Flexible Working Hours",
+    "category": "working_hours",
+    "content": "TechNova adopts flexible working hours with start times between 7 AM and 10 AM and end times between 4 PM and 7 PM, provided employees complete 8 daily working hours. Core hours (mandatory availability period) are from 10 AM to 4 PM, during which everyone must be available for meetings and collaboration. Time tracking is digital and completed through the PontoMais app or the web system. Overtime must be pre-approved by the manager and is compensated through a time bank valid for 6 months."
+  },
+  {
+    "id": "pol-012",
+    "title": "Performance Evaluation",
+    "category": "performance_review",
+    "content": "Performance evaluations at TechNova are conducted semiannually (January and July) using the 360° method, which includes self-evaluation, manager evaluation, and peer evaluation. The scale ranges from 1 (below expectations) to 5 (exceptional), evaluating criteria such as results delivery, collaboration, innovation, and alignment with company values. Evaluation results directly impact Profit Sharing (PLR): score 5 receives 150% of the target, score 4 receives 120%, score 3 receives 100%, score 2 receives 70%, and score 1 receives no PLR. Individual feedback sessions are conducted by managers within 15 days after the evaluation cycle."
+  },
+  {
+    "id": "pol-013",
+    "title": "Corporate Travel Policy",
+    "category": "travel",
+    "content": "Corporate travel must be requested at least 10 business days in advance through the Travel Corp system, with approval from the direct manager. The daily allowance limit is R$350.00 for capital cities and R$250.00 for other cities, covering lodging and meals. Airfare must be economy class, except for flights longer than 6 hours with executive board approval. Reimbursement for additional expenses (taxi, tolls, parking) is processed within 15 business days after submitting fiscal receipts in the system. Vehicle rentals must be intermediate category and require additional finance approval."
+  },
+  {
+    "id": "pol-014",
+    "title": "Travel Policy - International Rules",
+    "category": "travel",
+    "content": "For international travel, the daily allowance limit is USD 200.00 per day. The company provides international travel insurance with medical coverage of USD 100,000. Visa expenses and mandatory vaccines are fully reimbursed. Employees must request the international corporate card from the finance department at least 15 days in advance. Travel reports with expense accountability must be submitted within 5 business days after returning."
+  }
+]

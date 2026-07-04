@@ -1,0 +1,6 @@
+[
+    {"name": "Vintage Leather Jacket", "price": 250.00, "description": "Classic black biker-style jacket.", "image_path": "static/img/leather_jacket.jpg"},
+    {"name": "Summer Floral Dress", "price": 89.90, "description": "Lightweight dress with a yellow floral pattern.", "image_path": "static/img/floral_dress.jpg"},
+    {"name": "High-Tech Running Shoes", "price": 120.00, "description": "Sports shoes with advanced cushioning.", "image_path": "static/img/sneakers.jpg"},
+    {"name": "White Dress Shirt", "price": 60.00, "description": "Egyptian cotton shirt for office wear.", "image_path": "static/img/white_shirt.jpg"}
+]

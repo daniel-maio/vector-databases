@@ -1,0 +1,16 @@
+.env
+
+__pycache__/
+.vscode/
+.venv/
+
+_dsa/
+_devs/
+annot*.ipynb
+fluxo.md
+
+*.pyc
+
+chroma_db/
+volumes/
+chroma_db_persist/

@@ -1,0 +1,8 @@
+[
+    {"name": "PlayStation 5", "description": "Console de última geração com suporte a 4k e Ray Tracing.", "category": "Games", "brand": "Sony", "price": 4500},
+    {"name": "Xbox Series X", "description": "O console mais poderoso da Microsoft, rápido e compatível com GamePass.", "category": "Games", "brand": "Microsoft", "price": 4200},
+    {"name": "MacBook Air M2", "description": "Notebook leve, bateria de longa duração e chip M2 ultra rápido.", "category": "Notebooks", "brand": "Apple", "price": 8000},
+    {"name": "Dell XPS 13", "description": "Notebook Windows premium com tela infinita e alta portabilidade.", "category": "Notebooks", "brand": "Dell", "price": 7500},
+    {"name": "Sony WH-1000XM5", "description": "Fones de ouvido com o melhor cancelamento de ruído do mercado.", "category": "Áudio", "brand": "Sony", "price": 2200},
+    {"name": "JBL Flip 6", "description": "Caixa de som bluetooth portátil e resistente à água.", "category": "Áudio", "brand": "JBL", "price": 600}
+]
